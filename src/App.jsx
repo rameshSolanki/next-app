@@ -3,7 +3,8 @@ import './App.css'
 function App() {
   return (
     <>
-      <h1>My First Apps</h1>
+      <h1>Next App</h1>
+      <p>My First Apps</p>
     </>
   )
 }
